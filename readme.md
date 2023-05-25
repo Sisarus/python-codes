@@ -1,4 +1,3 @@
-run codes
-```
-python *filename*
-```
+# Basic python codes
+
+Only for read
